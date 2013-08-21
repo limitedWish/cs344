@@ -18,3 +18,8 @@
 
 # OS X stuff
 .DS_Store
+
+# cscope/ctags/etags index
+cscope.*
+tags
+TAGS
